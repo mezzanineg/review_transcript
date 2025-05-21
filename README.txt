@@ -56,7 +56,7 @@ Entrambi i file devono avere lo stesso nome base (es. "intervista01.mp3" e "inte
 
 ## Salvataggio
 
-Le modifiche vengono salvate automaticamente quando si passa da un file all’altro. È comunque disponibile un pulsante "Salva" manuale.
+Le modifiche vengono salvate automaticamente quando si passa da un file all’altro.
 
 ## Compatibilità
 
