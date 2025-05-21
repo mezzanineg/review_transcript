@@ -62,5 +62,5 @@ Le modifiche vengono salvate automaticamente quando si passa da un file all’al
 
 Testato su:
 
-- Chrome
-- macOS
+- Chrome 
+- macOS 
