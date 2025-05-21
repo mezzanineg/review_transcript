@@ -36,7 +36,7 @@ pip install Flask
 
 1. Clona il repository:
 
-git clone https://github.com/tuo-username/editor-trascrizioni.git
+git clone https://github.com/mezzanineg/review_transcript.git
 cd editor-trascrizioni
 
 2. Avvia il server Flask:
